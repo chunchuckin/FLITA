@@ -9,7 +9,7 @@ int main() {
   scanf("%d", &k);
   printf("\n");
 
-  long int dva[k];
+  int dva[k];
   
   printf("Введите сами числа в двоичном виде, при вводе каждого переходите на новую строку:");
   printf("\n");
